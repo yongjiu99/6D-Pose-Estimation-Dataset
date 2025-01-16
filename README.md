@@ -1,6 +1,7 @@
 # Photovoltaic pose estimation dataset
 A 3D dataset for PV station parts like transformers and gears features 10 categories and 14,000 images, suitable for pose estimation. Captured with a RealSense D435i, the dataset is processed on a powerful system and includes Aruco QR codes for 3D reconstruction. It's optimized for robustness with color and noise enhancements.
 
+运行环境Operating environment
 1. 环境配置
 安装Miniconda（Linux系统）：
 访问Miniconda的官方网站找到最新的安装脚本链接，：https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh。
